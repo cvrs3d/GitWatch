@@ -1,2 +1,11 @@
 Django==5.0.2
-djangorestframework
+djangorestframework==3.14.0
+
+pytz==2024.1
+sqlparse==0.4.4
+asgiref==3.7.2
+tzdata==2024.1
+
+django-environ
+
+psycopg2-binary>=2.9
